@@ -81,8 +81,8 @@ const kenny = {
 
 | 🔥 Hoy aprendo | 🎯 Estoy construyendo hacia | 💭 Lo que creo |
 |:-:|:-:|:-:|
-| Next.js & NestJS | Proyectos que resuelvan problemas reales | Mejor ser honesto aprendiendo que fingir que ya sé |
-| Buenas prácticas de código | Un portafolio sólido desde cero | La consistencia vence al talento |
+| Next.js & NestJS | Proyectos con proyeccion al futuro | Mejor ser honesto aprendiendo que fingir que ya sé |
+| Buenas prácticas de código | Un portafolio sólido desde ce | La consistencia vence al talento |
 | Arquitectura de software | Soluciones que impacten | Cada bug es una lección disfrazada |
 
 </div>

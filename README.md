@@ -14,7 +14,7 @@
 
 <!-- Typing animado — URL corregida con demolab.com -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Aprendiendo+a+contruir+Sistemas+escalables+en+el+futuro;Estudiante+de+Ingenieria+de+Software+en+SENATI;Explorando+el+Stack+PERN;Next.js+%2B+NestJS+en+el+horizonte;Codigo+limpio%2C+mente+curiosa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=aprendiendo+a+contruir+sistemas+escalables+en+el+futuro;Estudiante+de+Ingenieria+de+Software+en+SENATI;Explorando+el+Stack+PERN;Next.js+%2B+NestJS+en+el+horizonte;Codigo+limpio%2C+mente+curiosa" alt="Typing SVG" />
 </a>
 
 </div>

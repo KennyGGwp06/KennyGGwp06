@@ -31,29 +31,4 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical" />
-</div>
-
----
-
-### 🤝 Conectemos
-
-<p align="left">
-  <a href="https://fb.com/kennyggwp" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-<div align="center">
-  <sub>Hecho con ❤️ por Kenny Arevalo</sub>
-</div>

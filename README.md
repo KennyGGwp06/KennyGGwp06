@@ -1,34 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=German%20Kenny&fontSize=90" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00f2fe&height=200&section=header&text=HOLA,%20SOY%20GERMAN%20KENNY&fontSize=50&fontAlignY=40&animation=twinkling&theme=dark" width="100%" />
 
-  # 👋 ¡Hola! Soy German Kenny Guimaraes Arevalo
-  
-  ### 🚀 Desarrollador Fullstack apasionado por el Backend y la Arquitectura
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Especialista+en+React;Dominando+Next.js+y+NestJS;Entusiasta+del+Stack+PERN;Software+Engineering+Student)](https://git.io/typing-svg)
+  <br />
+
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350px" alt="Kenny programando" />
+
+  <br />
+  <br />
+
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Software;Un+Explorador+de+Conocimiento;Apasionado+por+el+Stack+PERN" alt="Typing SVG" />
+  </h3>
 </div>
 
 ---
 
-### 👤 Sobre mí
+## 🌱 Mi Enfoque Actual
 
-- 🎓 Estudiante de Ingeniería de Software (V Ciclo en SENATI).
-- 🌱 Actualmente profundizando en **Next.js y NestJS** para construir aplicaciones escalables.
-- 🏗️ Enfocado en la lógica **Backend** y la eficiencia de bases de datos.
-- 💬 Pregúntame sobre **React**; ¡me encanta ayudar y debatir sobre componentes!
-- 📍 Ubicado en Pucallpa, Perú.
+Como estudiante continuo, mi objetivo es absorber conocimiento y aplicarlo en soluciones reales. Actualmente, estoy enfocado en:
+
+* 🎓 **Estudiante de V Ciclo en SENATI**, Pucallpa.
+* 🚀 Aprendiendo intensamente **Next.js y NestJS** para dominar el desarrollo Fullstack modular.
+* 💬 Pregúntame sobre **React**; es una de mis tecnologías favoritas para construir interfaces.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Herramientas y Tecnologías
+
+He organizado mis habilidades por categoría para dar una visión clara de mi stack actual, usando insignias que resaltan visualmente.
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) |
-| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Mobile / Tools** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual__Studio__Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
+## 📊 Mis Estadísticas
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Kenny" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados por Kenny" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical&hide_border=true" alt="Racha de contribuciones de Kenny" />
+</div>
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+  <h3>
+    <a href="https://fb.com/kennyggwp" target="_blank">
+      [ Facebook | KennyGGWP ]
+    </a>
+  </h3>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Hecho con ❤️ y código por Kenny. ¡Gracias por visitar! | 🇵🇪</sub>
+</div>

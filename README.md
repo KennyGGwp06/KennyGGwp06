@@ -14,7 +14,7 @@
 
 <!-- Typing animado — URL corregida con demolab.com -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=19+anos+aprendiendo+a+construir+el+futuro;Estudiante+de+Ingenieria+de+Software+en+SENATI;Explorando+el+Stack+PERN;Next.js+%2B+NestJS+en+el+horizonte;Codigo+limpio%2C+mente+curiosa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=19+años+aprendiendo+a+construir+sistemas+escalables;Estudiante+de+Ingenieria+de+Software+en+SENATI;Explorando+el+Stack+PERN;Next.js+%2B+NestJS+en+el+horizonte;Codigo+limpio%2C+mente+curiosa" alt="Typing SVG" />
 </a>
 
 </div>
@@ -40,7 +40,7 @@ const kenny = {
   enfoque:    ["aprender", "construir", "mejorar"],
   stack:      ["React", "Next.js", "NestJS", "PostgreSQL"],
   mentalidad: "eterno aprendiz > falso experto",
-  objetivo:   "crear soluciones que impacten el mundo real"
+  objetivo:   "crear soluciones que impacten el mundo rea"
 };
 ```
 
@@ -119,8 +119,8 @@ const kenny = {
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kennyggwp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_AQUI)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/KennyGGwp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KennyGGwp06)
 
 <br/>
 
@@ -135,6 +135,6 @@ const kenny = {
 <!-- Footer animado — URL corregida con /api? -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-<sub>Hecho con ❤️ y mucho ☕ por Kenny | Pucallpa, Perú 🇵🇪</sub>
+<sub>Hecho con ❤️ y mucho ☕ por German Kenny | Pucallpa, Perú 🇵🇪</sub>
 
 </div>
